@@ -126,7 +126,7 @@ export default function MilestoneSection() {
           </Button>
           <Button
             variant="secondary"
-            className="rounded-full cursor-pointer bg-transparent border !border-white"
+            className="rounded-full cursor-pointer bg-transparent border !border-white !text-white"
           >
             Learn More
           </Button>
